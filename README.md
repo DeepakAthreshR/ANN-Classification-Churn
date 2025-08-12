@@ -32,7 +32,7 @@ It features **data preprocessing**, **model training**, and a **Streamlit web ap
 ##  Installation
 
 1️ **Clone the Repository**
-git clone https://github.com/yourusername/ann-customer-churn.git
+git clone https://github.com/DeepakAthreshR/ANN-Classification-Churn.git
 cd ann-customer-churn
 
 2️ **Create & Activate a Virtual Environment**
